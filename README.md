@@ -26,9 +26,9 @@ All you need to do to run your server locally is create a `.env` file in the roo
 
 ```
 SENG365_MYSQL_HOST=mysql3.csse.canterbury.ac.nz
-SENG365_MYSQL_USER={your usercode}
-SENG365_MYSQL_PASSWORD={your ID number}
-SENG365_MYSQL_DATABASE={your usercode}
+SENG365_MYSQL_USER=npv14 
+SENG365_MYSQL_PASSWORD=54781288
+SENG365_MYSQL_DATABASE=npv14
 ```
 
 1. Use `npm install` to populate the `node_modules/` directory with up-to-date packages.
